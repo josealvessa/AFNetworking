@@ -86,12 +86,6 @@
       location = "group:UIKit+AFNetworking"
       name = "UIKit+AFNetworking">
       <FileRef
-         location = "group:WKWebView+AFNetworking.h">
-      </FileRef>
-      <FileRef
-         location = "group:WKWebView+AFNetworking.m">
-      </FileRef>
-      <FileRef
          location = "group:UIKit+AFNetworking.h">
       </FileRef>
       <FileRef
